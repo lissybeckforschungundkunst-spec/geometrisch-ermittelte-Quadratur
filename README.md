@@ -1,6 +1,6 @@
 # Geometrisch ermittelte Konstruktion der Quadratseite a des kreisflächengleichen Quadrats
 
-Dieses Repository enthält mehrere druckreife PDF-Versionen sowie verschiedene ausführliche Dokumentationen und Konstruktionen, die sich mit der geometrischen Ermittlung der Quadratseite *a* eines kreisflächengleichen Quadrats befassen.  
+Dieses Repository enthält mehrere druckreife PDF-Versionen sowie verschiedene ausführliche Dokumentationen und Konstruktionen, die sich mit der geometrischen Ermittlung der Quadratseite a eines kreisflächengleichen Quadrats befassen.  
 Die Arbeiten basieren auf klassischen euklidischen Werkzeugen (Zirkel und Lineal) und nutzen implizit entstehende Schnitt- und Referenzpunkte, die sich aus der Lage mehrerer Quadrate über dem Durchmesser eines gegebenen Kreises ergeben.
 
 ## Inhalt des Repositories
