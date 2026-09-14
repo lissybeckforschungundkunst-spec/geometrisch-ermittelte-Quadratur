@@ -1,11 +1,11 @@
 # Geometrisch ermittelte Konstruktion der Quadratseite a des kreisflächengleichen Quadrats
 
-Dieses Repository enthält mehrere druckreife PDF-Versionen sowie verschiedene ausführliche Dokumentationen und Konstruktionen, die sich mit der geometrischen Ermittlung der Quadratseite a eines kreisflächengleichen Quadrats befassen.  
-Die Arbeiten basieren auf klassischen euklidischen Werkzeugen (Zirkel und Lineal) und nutzen implizit entstehende Schnitt- und Referenzpunkte, die sich aus der Lage mehrerer Quadrate über dem Durchmesser eines gegebenen Kreises ergeben.
+Dieses Repository enthält PDF-Versionen sowie verschiedene Dokumentationen und Grafiken mit eigenen Konstruktionen, die im ersten Erfolgsschritt eine geometrisch ermittelte Streckenlänge der gesuchten Quadratseite a des kreisflächengleichen Quadrats aufzeigen und ferner das daraus abgeleitete Quadrat selbst.  
+Die originalen Zeichnungen basieren auf klassischen euklidischen Werkzeugen (Bleistift, Zirkel und Lineal ohne Markierung) und nutzen implizit entstehende Schnitt- und Referenzpunkte, die sich aus der Lage mehrerer Hilfsquadrat- und -Kreislinien über mit gemeinsamem Zentrum ergeben. Am PC werden eingescannte klassische Zeichnungen über Paint dokumentiert und erläutert. Es handelt sich mutmaßlich um lehrbuchrelevante Inhalte.
 
 ## Inhalt des Repositories
 
-- **Druckreife PDF-Versionen**  
+- **PDF-Dateien**  
   Mehrere typografisch ausgearbeitete Fassungen der Konstruktion, jeweils vollständig und zitierfähig.
 
 - **Ausführliche Dokumentationen**  
@@ -20,8 +20,8 @@ Die Arbeiten basieren auf klassischen euklidischen Werkzeugen (Zirkel und Lineal
 
 ## Wissenschaftlicher Hintergrund
 
-Die Konstruktionen zeigen, dass sich die Seitenlänge *a* eines kreisflächengleichen Quadrats aus der Geometrie eines gegebenen Kreises gewinnen lässt, ohne transzendente Zahlen analytisch zu erzeugen.  
-Alle verwendeten Punkte entstehen implizit und sind eindeutig bestimmbar.
+Die Konstruktionen zeigen, dass sich die Seitenlänge von a eines kreisflächengleichen Quadrats aus der Geometrie eines gegebenen Kreises gewinnen lässt, ohne transzendente Zahlen analytisch zu erzeugen.  
+Alle entdeckten Punkte sind implizit dem Wesen der geometrischen Figuren schlüssige und sind eindeutig bestimmbar.
 
 ## Zweck des Repositories
 
@@ -30,6 +30,3 @@ Dieses Repository dient der:
 - wissenschaftlichen Dokumentation mehrerer Konstruktionen,  
 - Bereitstellung druckreifer PDF-Versionen,  
 - Archivierung der Langfassungen,  
-- Vorbereitung einer DOI-Vergabe über Zenodo.
-
-Die PDF-Versionen sind die verbindlichen und zitierfähigen Fassungen.
