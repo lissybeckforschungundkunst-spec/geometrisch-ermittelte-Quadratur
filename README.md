@@ -1,15 +1,15 @@
 # Geometrisch ermittelte Konstruktion der Quadratseite a des kreisflächengleichen Quadrats
 
-Dieses Repository enthält PDF-Versionen sowie verschiedene Dokumentationen und Grafiken mit eigenen Konstruktionen, die im ersten Erfolgsschritt eine geometrisch ermittelte Streckenlänge der gesuchten Quadratseite a des kreisflächengleichen Quadrats aufzeigen und ferner das daraus abgeleitete Quadrat selbst.  
-Die originalen Zeichnungen basieren auf klassischen euklidischen Werkzeugen (Bleistift, Zirkel und Lineal ohne Markierung) und nutzen implizit entstehende Schnitt- und Referenzpunkte, die sich aus der Lage mehrerer Hilfsquadrat- und -Kreislinien über mit gemeinsamem Zentrum ergeben. Am PC werden eingescannte klassische Zeichnungen über Paint dokumentiert und erläutert. Es handelt sich mutmaßlich um lehrbuchrelevante Inhalte.
+Dieses Repository wird Versionen sowie verschiedene Dokumentationen und Grafiken enthalten mit eigenen Konstruktionen, die im ersten Erfolgsschritt eine geometrisch ermittelte Streckenlänge der gesuchten Quadratseite a des kreisflächengleichen Quadrats aufzeigen und ferner das daraus abgeleitete Quadrat selbst.  
+Die originalen Zeichnungen basieren auf klassischen euklidischen Werkzeugen (Bleistift, Zirkel und Lineal ohne Markierung) und nutzen implizit entstehende Schnitt- und Referenzpunkte, die sich aus der Lage mehrerer Hilfsquadrat- und -Kreislinien mit gemeinsamem Zentrum ergeben. Am PC werden eingescannte klassische Zeichnungen mit einem Zeichenprogramm dokumentiert und erläutert. Es handelt sich mutmaßlich um lehrbuchrelevante Inhalte.
 
 ## Inhalt des Repositories
 
 - **PDF-Dateien**  
-  Mehrere typografisch ausgearbeitete Fassungen der Konstruktion, jeweils vollständig und zitierfähig.
+  Mehrere typografisch ausgearbeitete Fassungen der Konstruktionszeichnungen und -grafiken.
 
 - **Ausführliche Dokumentationen**  
-  Langfassungen mit Herleitungen, Begründungen, Grafiken und Seitennummerierung.  
+  Langfassungen mit Herleitungen, Begründungen, Grafiken.  
   Diese Dateien erläutern die geometrischen Beziehungen, die Rolle der Schnittpunkte und die Struktur der Konstruktionen.
 
 - **Mehrere Konstruktionen**  
